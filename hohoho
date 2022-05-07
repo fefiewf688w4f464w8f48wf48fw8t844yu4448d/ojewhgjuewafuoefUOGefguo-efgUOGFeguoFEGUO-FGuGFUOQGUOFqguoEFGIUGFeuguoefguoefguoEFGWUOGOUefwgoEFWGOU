@@ -1,0 +1,4 @@
+pcall(function()
+getgenv().rconsoleprint = "nigga"
+end)
+print("good luck skids hehehe")
